@@ -4,12 +4,12 @@ Atividade padrão de projeto - **Template Method**.
 
 ## Conteúdos
 
-1. [Classificação](https://github.com/igorgodoy/cco-programacao-avancada-tempalte-method#classifica%C3%A7%C3%A3o)
-2. [Intenção](https://github.com/igorgodoy/cco-programacao-avancada-tempalte-method#inten%C3%A7%C3%A3o)
-3. [Motivação](https://github.com/igorgodoy/cco-programacao-avancada-tempalte-method#motiva%C3%A7%C3%A3o)
-4. [Aplicação](https://github.com/igorgodoy/cco-programacao-avancada-tempalte-method#aplica%C3%A7%C3%A3o)
-5. [Estrutura](https://github.com/igorgodoy/cco-programacao-avancada-tempalte-method#estrutura)
-6. [Implementação](https://github.com/igorgodoy/cco-programacao-avancada-tempalte-method#implementa%C3%A7%C3%A3o)
+1. [Classificação](https://github.com/igorgodoy/cco-programacao-avancada-template-method#classifica%C3%A7%C3%A3o)
+2. [Intenção](https://github.com/igorgodoy/cco-programacao-avancada-template-method#inten%C3%A7%C3%A3o)
+3. [Motivação](https://github.com/igorgodoy/cco-programacao-avancada-template-method#motiva%C3%A7%C3%A3o)
+4. [Aplicação](https://github.com/igorgodoy/cco-programacao-avancada-template-method#aplica%C3%A7%C3%A3o)
+5. [Estrutura](https://github.com/igorgodoy/cco-programacao-avancada-template-method#estrutura)
+6. [Implementação](https://github.com/igorgodoy/cco-programacao-avancada-template-method#implementa%C3%A7%C3%A3o)
 
 ## Template Method
 
