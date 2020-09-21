@@ -27,7 +27,7 @@ Atividade padrão de projeto - **Template Method**.
 
 ### Aplicação
 
-- Um software que extrai dados de diferentes tipos de arquivos pode ser um ótimo exemplo. Neste cenário temos uma superclasse *FileExtract* contendo alguns métodos comuns à todos os tipos de arquivos como *openFile* e *closeFile*, e desta superclasse podemos derivar as subclasses *CSVFileExtract* e *TXTFileExtract*, onde estas subclasses terão seus próprios métodos *extractData*, com sua tratativas particulares.
+- Um software que extrai dados de diferentes tipos de arquivos pode ser um ótimo exemplo. Neste cenário temos uma superclasse *FileExtract* contendo alguns métodos comuns à todos os tipos de arquivos como *openFile* e *closeFile*, e desta superclasse podemos derivar as subclasses *CSVFileExtract* e *TXTFileExtract*, onde estas subclasses terão seus próprios métodos *extractData*, com suas tratativas particulares.
 
 ### Estrutura
 
